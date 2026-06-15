@@ -1,4 +1,4 @@
-[View Feature Display](https://bjornakastrati.github.io/Skinnovate-Dermatology-Clinic-System/)
+[View Feature Display](https://bjornakastrati.github.io/Skinnovate-WebApp/)
 
 # Skinnovate — AI-Powered Dermatology Platform
 
